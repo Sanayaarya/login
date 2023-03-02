@@ -1,0 +1,19 @@
+h1{
+  text-align: center;
+  
+}
+.background{
+  background-color: blanchedalmond;
+  height: 100px;
+}
+.center{
+  text-align: center;
+  background-color: aquamarine;
+}
+
+div{
+  width: 500px;
+  height: 500px;
+  border: 1px solid black;
+  margin: 0 auto;
+}
